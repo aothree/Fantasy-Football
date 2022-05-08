@@ -1,0 +1,648 @@
+Player,Team_Name_Abbrev,Pos,Team_Name_Full,Team_Name_Mascot
+Cooper Kupp,LAR,WR,Los Angeles Rams,Rams
+Davante Adams,GNB,WR,Green Bay Packers,Packers
+Tyreek Hill,KAN,WR,Kansas City Chiefs,Chiefs
+Justin Jefferson,MIN,WR,Minnesota Vikings,Vikings
+Mark Andrews,BAL,te,Baltimore Ravens,Ravens
+Diontae Johnson,PIT,WR,Pittsburgh Steelers,Steelers
+Keenan Allen,LAC,WR,Los Angeles Chargers,Chargers
+Jaylen Waddle,MIA,WR,Miami Dolphins,Dolphins
+Stefon Diggs,BUF,WR,Buffalo Bills,Bills
+Hunter Renfrow,LVR,wr,Las Vegas Raiders,Raiders
+Chris Godwin,TAM,WR,Tampa Bay Buccaneers,Buccaneers
+D.J. Moore,CAR,WR,Carolina Panthers,Panthers
+Travis Kelce,KAN,TE,Kansas City Chiefs,Chiefs
+Marquise Brown,BAL,WR,Baltimore Ravens,Ravens
+Brandin Cooks,HOU,WR,Houston Texans,Texans
+Amon-Ra St. Brown,DET,wr,Detroit Lions,Lions
+Michael Pittman Jr.,IND,WR,Indianapolis Colts,Colts
+Jakobi Meyers,NWE,WR,New England Patriots,Patriots
+Cole Beasley,BUF,wr,Buffalo Bills,Bills
+Ja'Marr Chase,CIN,WR,Cincinnati Bengals,Bengals
+Darnell Mooney,CHI,WR,Chicago Bears,Bears
+CeeDee Lamb,DAL,WR,Dallas Cowboys,Cowboys
+Dalton Schultz,DAL,TE,Dallas Cowboys,Cowboys
+Christian Kirk,ARI,WR,Arizona Cardinals,Cardinals
+Terry McLaurin,WAS,WR,Washington Commanders,Commanders
+Deebo Samuel,SFO,WR,San Francisco 49ers,49ers
+Mike Williams,LAC,WR,Los Angeles Chargers,Chargers
+D.K. Metcalf,SEA,WR,Seattle Seahawks,Seahawks
+Zach Ertz,2TM,,key does not exist --> 2TM,2TM
+Mike Evans,TAM,WR,Tampa Bay Buccaneers,Buccaneers
+Najee Harris,PIT,RB,Pittsburgh Steelers,Steelers
+Tee Higgins,CIN,WR,Cincinnati Bengals,Bengals
+Mike Gesicki,MIA,te,Miami Dolphins,Dolphins
+Marvin Jones,JAX,WR,Jacksonville Jaguars,Jaguars
+Tyler Lockett,SEA,WR,Seattle Seahawks,Seahawks
+George Kittle,SFO,TE,San Francisco 49ers,49ers
+Austin Ekeler,LAC,RB,Los Angeles Chargers,Chargers
+Leonard Fournette,TAM,RB,Tampa Bay Buccaneers,Buccaneers
+Amari Cooper,DAL,WR,Dallas Cowboys,Cowboys
+Noah Fant,DEN,TE,Denver Broncos,Broncos
+Kyle Pitts,ATL,TE,Atlanta Falcons,Falcons
+Tyler Boyd,CIN,wr,Cincinnati Bengals,Bengals
+Adam Thielen,MIN,WR,Minnesota Vikings,Vikings
+Russell Gage,ATL,wr,Atlanta Falcons,Falcons
+DeVonta Smith,PHI,WR,Philadelphia Eagles,Eagles
+A.J. Brown,TEN,WR,Tennessee Titans,Titans
+Laviska Shenault Jr.,JAX,wr,Jacksonville Jaguars,Jaguars
+D'Andre Swift,DET,rb,Detroit Lions,Lions
+Tyler Conklin,MIN,TE,Minnesota Vikings,Vikings
+Tyler Higbee,LAR,TE,Los Angeles Rams,Rams
+T.J. Hockenson,DET,TE,Detroit Lions,Lions
+Pat Freiermuth,PIT,te,Pittsburgh Steelers,Steelers
+Cole Kmet,CHI,TE,Chicago Bears,Bears
+Chase Claypool,PIT,WR,Pittsburgh Steelers,Steelers
+Mecole Hardman,KAN,wr,Kansas City Chiefs,Chiefs
+Courtland Sutton,DEN,WR,Denver Broncos,Broncos
+Brandon Aiyuk,SFO,WR,San Francisco 49ers,49ers
+Dallas Goedert,PHI,TE,Philadelphia Eagles,Eagles
+Kendrick Bourne,NWE,wr,New England Patriots,Patriots
+Rob Gronkowski,TAM,TE,Tampa Bay Buccaneers,Buccaneers
+Darren Waller,LVR,TE,Las Vegas Raiders,Raiders
+A.J. Green,ARI,wr,Arizona Cardinals,Cardinals
+Josh Jacobs,LVR,RB,Las Vegas Raiders,Raiders
+Rondale Moore,ARI,wr,Arizona Cardinals,Cardinals
+Robby Anderson,CAR,WR,Carolina Panthers,Panthers
+Tim Patrick,DEN,WR,Denver Broncos,Broncos
+Aaron Jones,GNB,RB,Green Bay Packers,Packers
+Jarvis Landry,CLE,,Cleveland Browns,Browns
+Cordarrelle Patterson,ATL,RB,Atlanta Falcons,Falcons
+Jamison Crowder,NYJ,wr,NY Jets,Jets
+Hunter Henry,NWE,te,New England Patriots,Patriots
+Van Jefferson,LAR,WR,Los Angeles Rams,Rams
+K.J. Osborn,MIN,wr,Minnesota Vikings,Vikings
+Myles Gaskin,MIA,rb,Miami Dolphins,Dolphins
+Dawson Knox,BUF,TE,Buffalo Bills,Bills
+C.J. Uzomah,CIN,TE,Cincinnati Bengals,Bengals
+Jared Cook,LAC,te,Los Angeles Chargers,Chargers
+Gerald Everett,SEA,,Seattle Seahawks,Seahawks
+Kalif Raymond,DET,WR,Detroit Lions,Lions
+Ezekiel Elliott,DAL,RB,Dallas Cowboys,Cowboys
+Zay Jones,LVR,wr,Las Vegas Raiders,Raiders
+Alvin Kamara,NOR,rb,key does not exist --> NOR,NOR
+Darrel Williams,KAN,rb,Kansas City Chiefs,Chiefs
+Rashod Bateman,BAL,wr,Baltimore Ravens,Ravens
+Braxton Berrios,NYJ,wr,NY Jets,Jets
+Marquez Callaway,NOR,WR,key does not exist --> NOR,NOR
+Evan Engram,NYG,TE,NY Giants,Giants
+Cedrick Wilson Jr.,DAL,wr,Dallas Cowboys,Cowboys
+Robert Woods,LAR,wr,Los Angeles Rams,Rams
+Odell Beckham Jr.,2TM,,key does not exist --> 2TM,2TM
+Mike Davis,ATL,rb,Atlanta Falcons,Falcons
+Chase Edmonds,ARI,RB,Arizona Cardinals,Cardinals
+J.D. McKissic,WAS,rb,Washington Commanders,Commanders
+Elijah Moore,NYJ,wr,NY Jets,Jets
+Quez Watkins,PHI,WR,Philadelphia Eagles,Eagles
+Javonte Williams,DEN,rb,Denver Broncos,Broncos
+Antonio Brown,TAM,,Tampa Bay Buccaneers,Buccaneers
+Antonio Gibson,WAS,RB,Washington Commanders,Commanders
+DeAndre Hopkins,ARI,wr,Arizona Cardinals,Cardinals
+Joe Mixon,CIN,RB,Cincinnati Bengals,Bengals
+David Montgomery,CHI,RB,Chicago Bears,Bears
+Byron Pringle,KAN,wr,Kansas City Chiefs,Chiefs
+Emmanuel Sanders,BUF,WR,Buffalo Bills,Bills
+Saquon Barkley,NYG,RB,NY Giants,Giants
+Brandon Bolden,NWE,rb,New England Patriots,Patriots
+Adam Humphries,WAS,WR,Washington Commanders,Commanders
+Devontae Booker,NYG,,NY Giants,Giants
+Nyheim Hines,IND,rb,Indianapolis Colts,Colts
+Allen Lazard,GNB,WR,Green Bay Packers,Packers
+DeVante Parker,MIA,wr,Miami Dolphins,Dolphins
+Devin Singletary,BUF,RB,Buffalo Bills,Bills
+Jonathan Taylor,IND,RB,Indianapolis Colts,Colts
+Ray-Ray McCloud,PIT,wr,Pittsburgh Steelers,Steelers
+Tony Pollard,DAL,,Dallas Cowboys,Cowboys
+Kadarius Toney,NYG,wr,NY Giants,Giants
+Ameer Abdullah,2TM,,key does not exist --> 2TM,2TM
+Austin Hooper,CLE,TE,Cleveland Browns,Browns
+Jerry Jeudy,DEN,wr,Denver Broncos,Broncos
+Zach Pascal,IND,WR,Indianapolis Colts,Colts
+Allen Robinson,CHI,WR,Chicago Bears,Bears
+Nick Westbrook-Ikhine,TEN,wr,Tennessee Titans,Titans
+Nelson Agholor,NWE,WR,New England Patriots,Patriots
+James Conner,ARI,rb,Arizona Cardinals,Cardinals
+Kenny Golladay,NYG,WR,NY Giants,Giants
+Christian McCaffrey,CAR,rb,Carolina Panthers,Panthers
+Michael Carter,NYJ,RB,NY Jets,Jets
+Deonte Harris,NOR,wr,key does not exist --> NOR,NOR
+Tyler Johnson,TAM,wr,Tampa Bay Buccaneers,Buccaneers
+David Njoku,CLE,TE,Cleveland Browns,Browns
+Sterling Shepard,NYG,wr,NY Giants,Giants
+Dan Arnold,2TM,,key does not exist --> 2TM,2TM
+Gabriel Davis,BUF,wr,Buffalo Bills,Bills
+Michael Gallup,DAL,wr,Dallas Cowboys,Cowboys
+Dalvin Cook,MIN,RB,Minnesota Vikings,Vikings
+Corey Davis,NYJ,wr,NY Jets,Jets
+AJ Dillon,GNB,rb,Green Bay Packers,Packers
+Bryan Edwards,LVR,WR,Las Vegas Raiders,Raiders
+Anthony Firkser,TEN,te,Tennessee Titans,Titans
+Devonta Freeman,BAL,rb,Baltimore Ravens,Ravens
+Ty Johnson,NYJ,rb,NY Jets,Jets
+Donovan Peoples-Jones,CLE,wr,Cleveland Browns,Browns
+Durham Smythe,MIA,TE,Miami Dolphins,Dolphins
+Nico Collins,HOU,wr,Houston Texans,Texans
+Devin Duvernay,BAL,wr,Baltimore Ravens,Ravens
+Kenneth Gainwell,PHI,rb,Philadelphia Eagles,Eagles
+Albert Okwuegbunam,DEN,te,Denver Broncos,Broncos
+Josh Palmer,LAC,wr,Los Angeles Chargers,Chargers
+Jalen Reagor,PHI,WR,Philadelphia Eagles,Eagles
+Laquon Treadwell,JAX,wr,Jacksonville Jaguars,Jaguars
+David Johnson,HOU,rb,Houston Texans,Texans
+Alexander Mattison,MIN,rb,Minnesota Vikings,Vikings
+Tre'Quan Smith,NOR,wr,key does not exist --> NOR,NOR
+Jalen Guyton,LAC,wr,Los Angeles Chargers,Chargers
+Julio Jones,TEN,wr,Tennessee Titans,Titans
+Calvin Ridley,ATL,wr,Atlanta Falcons,Falcons
+James Robinson,JAX,RB,Jacksonville Jaguars,Jaguars
+Geoff Swaim,TEN,TE,Tennessee Titans,Titans
+Olamide Zaccheaus,ATL,wr,Atlanta Falcons,Falcons
+Cameron Brate,TAM,te,Tampa Bay Buccaneers,Buccaneers
+Kenyan Drake,LVR,rb,Las Vegas Raiders,Raiders
+Kyle Juszczyk,SFO,FB,San Francisco 49ers,49ers
+Foster Moreau,LVR,TE,Las Vegas Raiders,Raiders
+Chester Rogers,TEN,wr,Tennessee Titans,Titans
+Ricky Seals-Jones,WAS,te,Washington Commanders,Commanders
+Jack Doyle,IND,,Indianapolis Colts,Colts
+Darrell Henderson,LAR,rb,Los Angeles Rams,Rams
+Josh Reynolds,2TM,,key does not exist --> 2TM,2TM
+Randall Cobb,GNB,wr,Green Bay Packers,Packers
+Keelan Cole,NYJ,WR,NY Jets,Jets
+Melvin Gordon,DEN,RB,Denver Broncos,Broncos
+Jeremy McNichols,TEN,,Tennessee Titans,Titans
+Jonnu Smith,NWE,TE,New England Patriots,Patriots
+Ryan Griffin,NYJ,TE,NY Jets,Jets
+Mark Ingram,2TM,,key does not exist --> 2TM,2TM
+Samaje Perine,CIN,,Cincinnati Bengals,Bengals
+Adam Trautman,NOR,te,key does not exist --> NOR,NOR
+Sammy Watkins,BAL,wr,Baltimore Ravens,Ravens
+Damiere Byrd,CHI,wr,Chicago Bears,Bears
+Hayden Hurst,ATL,te,Atlanta Falcons,Falcons
+Kyle Rudolph,NYG,,NY Giants,Giants
+Miles Sanders,PHI,RB,Philadelphia Eagles,Eagles
+Darius Slayton,NYG,wr,NY Giants,Giants
+Marquez Valdes-Scantling,GNB,wr,Green Bay Packers,Packers
+Jamaal Williams,DET,RB,Detroit Lions,Lions
+Rex Burkhead,HOU,rb,Houston Texans,Texans
+Josiah Deguara,GNB,te,Green Bay Packers,Packers
+Chuba Hubbard,CAR,rb,Carolina Panthers,Panthers
+Demarcus Robinson,KAN,wr,Kansas City Chiefs,Chiefs
+Tajae Sharpe,ATL,wr,Atlanta Falcons,Falcons
+Freddie Swain,SEA,wr,Seattle Seahawks,Seahawks
+Albert Wilson,MIA,wr,Miami Dolphins,Dolphins
+Jamal Agnew,JAX,wr,Jacksonville Jaguars,Jaguars
+Jordan Akins,HOU,te,Houston Texans,Texans
+Mo Alie-Cox,IND,te,Indianapolis Colts,Colts
+Danny Amendola,HOU,,Houston Texans,Texans
+Tavon Austin,JAX,wr,Jacksonville Jaguars,Jaguars
+DeAndre Carter,WAS,wr,Washington Commanders,Commanders
+Rashard Higgins,CLE,wr,Cleveland Browns,Browns
+Jauan Jennings,SFO,wr,San Francisco 49ers,49ers
+James O'Shaughnessy,JAX,te,Jacksonville Jaguars,Jaguars
+Henry Ruggs III,LVR,,Las Vegas Raiders,Raiders
+James Washington,PIT,wr,Pittsburgh Steelers,Steelers
+Giovani Bernard,TAM,,Tampa Bay Buccaneers,Buccaneers
+Pharaoh Brown,HOU,TE,Houston Texans,Texans
+Jamycal Hasty,SFO,,San Francisco 49ers,49ers
+T.Y. Hilton,IND,wr,Indianapolis Colts,Colts
+Marcedes Lewis,GNB,TE,Green Bay Packers,Packers
+Zack Moss,BUF,,Buffalo Bills,Bills
+Chris Conley,HOU,wr,Houston Texans,Texans
+Kareem Hunt,CLE,rb,Cleveland Browns,Browns
+Justin Jackson,LAC,rb,Los Angeles Chargers,Chargers
+Harrison Bryant,CLE,te,Cleveland Browns,Browns
+DeeJay Dallas,SEA,,Seattle Seahawks,Seahawks
+Will Dissly,SEA,TE,Seattle Seahawks,Seahawks
+Sony Michel,LAR,rb,Los Angeles Rams,Rams
+Chris Moore,HOU,wr,Houston Texans,Texans
+John Bates,WAS,te,Washington Commanders,Commanders
+Nick Chubb,CLE,RB,Cleveland Browns,Browns
+Marquise Goodwin,CHI,wr,Chicago Bears,Bears
+DeSean Jackson,2TM,,key does not exist --> 2TM,2TM
+Brevin Jordan,HOU,te,Houston Texans,Texans
+Isaiah McKenzie,BUF,wr,Buffalo Bills,Bills
+Donald Parham,LAC,te,Los Angeles Chargers,Chargers
+Tommy Tremble,CAR,TE,Carolina Panthers,Panthers
+Clyde Edwards-Helaire,KAN,rb,Kansas City Chiefs,Chiefs
+Zach Gentry,PIT,TE,Pittsburgh Steelers,Steelers
+Dontrell Hilliard,TEN,rb,Tennessee Titans,Titans
+D'Ernest Johnson,CLE,rb,Cleveland Browns,Browns
+Elijah Mitchell,SFO,rb,San Francisco 49ers,49ers
+Antoine Wesley,ARI,wr,Arizona Cardinals,Cardinals
+Demetric Felton,CLE,rb,Cleveland Browns,Browns
+Damien Harris,NWE,RB,New England Patriots,Patriots
+Derrick Henry,TEN,rb,Tennessee Titans,Titans
+Ian Thomas,CAR,TE,Carolina Panthers,Panthers
+Logan Thomas,WAS,te,Washington Commanders,Commanders
+Robert Tonyan,GNB,te,Green Bay Packers,Packers
+Brandon Zylstra,CAR,wr,Carolina Panthers,Panthers
+C.J. Ham,MIN,fb,Minnesota Vikings,Vikings
+Terrace Marshall Jr.,CAR,wr,Carolina Panthers,Panthers
+Stephen Anderson,LAC,te,Los Angeles Chargers,Chargers
+Noah Brown,DAL,wr,Dallas Cowboys,Cowboys
+Travis Homer,SEA,,Seattle Seahawks,Seahawks
+Tyler Kroft,NYJ,te,NY Jets,Jets
+Ty Montgomery,NOR,wr,key does not exist --> NOR,NOR
+James Proche,BAL,,Baltimore Ravens,Ravens
+Damien Williams,CHI,rb,Chicago Bears,Bears
+Maxx Williams,ARI,te,Arizona Cardinals,Cardinals
+Quintez Cephus,DET,wr,Detroit Lions,Lions
+Chris Evans,CIN,rb,Cincinnati Bengals,Bengals
+Kendall Hinton,DEN,wr,Denver Broncos,Broncos
+Mohamed Sanu,SFO,,San Francisco 49ers,49ers
+Cam Sims,WAS,wr,Washington Commanders,Commanders
+JuJu Smith-Schuster,PIT,,Pittsburgh Steelers,Steelers
+Jimmy Graham,CHI,te,Chicago Bears,Bears
+Khalil Herbert,CHI,rb,Chicago Bears,Bears
+Mack Hollins,MIA,wr,Miami Dolphins,Dolphins
+O.J. Howard,TAM,te,Tampa Bay Buccaneers,Buccaneers
+MyCole Pruitt,TEN,te,Tennessee Titans,Titans
+Rhamondre Stevenson,NWE,rb,New England Patriots,Patriots
+Ashton Dulin,IND,wr,Indianapolis Colts,Colts
+KhaDarel Hodge,DET,wr,Detroit Lions,Lions
+Lil'Jordan Humphrey,NOR,wr,key does not exist --> NOR,NOR
+Juwan Johnson,NOR,te,key does not exist --> NOR,NOR
+Jerick McKinnon,KAN,,Kansas City Chiefs,Chiefs
+Dare Ogunbowale,JAX,rb,Jacksonville Jaguars,Jaguars
+Boston Scott,PHI,rb,Philadelphia Eagles,Eagles
+Salvon Ahmed,MIA,,Miami Dolphins,Dolphins
+Dyami Brown,WAS,wr,Washington Commanders,Commanders
+Eric Ebron,PIT,,Pittsburgh Steelers,Steelers
+Isaiah Ford,MIA,wr,Miami Dolphins,Dolphins
+N'Keal Harry,NWE,wr,New England Patriots,Patriots
+Carlos Hyde,JAX,,Jacksonville Jaguars,Jaguars
+Jalen Richard,LVR,,Las Vegas Raiders,Raiders
+Adam Shaheen,MIA,te,Miami Dolphins,Dolphins
+Malik Turner,DAL,,Dallas Cowboys,Cowboys
+James White,NWE,,New England Patriots,Patriots
+Brock Wright,DET,te,Detroit Lions,Lions
+Tevin Coleman,NYJ,rb,NY Jets,Jets
+Kylen Granson,IND,,Indianapolis Colts,Colts
+Jakeem Grant,2TM,,key does not exist --> 2TM,2TM
+Blake Jarwin,DAL,,Dallas Cowboys,Cowboys
+Collin Johnson,NYG,wr,NY Giants,Giants
+Breshad Perriman,TAM,,Tampa Bay Buccaneers,Buccaneers
+John Ross,NYG,wr,NY Giants,Giants
+Drew Sample,CIN,te,Cincinnati Bengals,Bengals
+Ben Skowronek,LAR,wr,Los Angeles Rams,Rams
+Peyton Barber,LVR,rb,Las Vegas Raiders,Raiders
+Trinity Benson,DET,wr,Detroit Lions,Lions
+Parris Campbell,IND,wr,Indianapolis Colts,Colts
+D'Wayne Eskridge,SEA,,Seattle Seahawks,Seahawks
+Royce Freeman,2TM,,key does not exist --> 2TM,2TM
+Cyril Grayson,TAM,wr,Tampa Bay Buccaneers,Buccaneers
+Alec Ingold,LVR,fb,Las Vegas Raiders,Raiders
+Ronald Jones II,TAM,rb,Tampa Bay Buccaneers,Buccaneers
+Latavius Murray,BAL,rb,Baltimore Ravens,Ravens
+Jaret Patterson,WAS,rb,Washington Commanders,Commanders
+Dante Pettis,NYG,,NY Giants,Giants
+Anthony Schwartz,CLE,wr,Cleveland Browns,Browns
+Dede Westbrook,MIN,,Minnesota Vikings,Vikings
+Blake Bell,KAN,te,Kansas City Chiefs,Chiefs
+Alex Collins,SEA,rb,Seattle Seahawks,Seahawks
+D'Onta Foreman,TEN,rb,Tennessee Titans,Titans
+Jacob Hollister,JAX,te,Jacksonville Jaguars,Jaguars
+Marcus Johnson,TEN,wr,Tennessee Titans,Titans
+Dax Milne,WAS,wr,Washington Commanders,Commanders
+Josh Oliver,BAL,te,Baltimore Ravens,Ravens
+Elijhaa Penny,NYG,rb,NY Giants,Giants
+Trent Sherfield,SFO,wr,San Francisco 49ers,49ers
+Keith Smith,ATL,fb,Atlanta Falcons,Falcons
+Lee Smith,ATL,,Atlanta Falcons,Falcons
+Equanimeous St. Brown,GNB,wr,Green Bay Packers,Packers
+Tommy Sweeney,BUF,te,Buffalo Bills,Bills
+Nick Vannett,NOR,te,key does not exist --> NOR,NOR
+Ty'Son Williams,BAL,rb,Baltimore Ravens,Ravens
+Derrick Gore,KAN,,Kansas City Chiefs,Chiefs
+Denzel Mims,NYJ,wr,NY Jets,Jets
+Patrick Ricard,BAL,FB,Baltimore Ravens,Ravens
+Eric Saubert,DEN,te,Denver Broncos,Broncos
+Jeff Smith,NYJ,wr,NY Jets,Jets
+Juwann Winfree,GNB,,Green Bay Packers,Packers
+Matt Breida,BUF,,Buffalo Bills,Bills
+DJ Chark,JAX,wr,Jacksonville Jaguars,Jaguars
+Phillip Dorsett,3TM,,key does not exist --> 3TM,3TM
+Luke Farrell,JAX,te,Jacksonville Jaguars,Jaguars
+Noah Gray,KAN,te,Kansas City Chiefs,Chiefs
+Penny Hart,SEA,,Seattle Seahawks,Seahawks
+Godwin Igwebuike,DET,rb,Detroit Lions,Lions
+Jesse James,CHI,te,Chicago Bears,Bears
+Craig Reynolds,DET,,Detroit Lions,Lions
+Greg Ward,PHI,,Philadelphia Eagles,Eagles
+Jeff Wilson,SFO,rb,San Francisco 49ers,49ers
+Eno Benjamin,ARI,,Arizona Cardinals,Cardinals
+Chris Carson,SEA,rb,Seattle Seahawks,Seahawks
+Corey Clement,DAL,,Dallas Cowboys,Cowboys
+Jaelon Darden,TAM,,Tampa Bay Buccaneers,Buccaneers
+Tom Kennedy,DET,,Detroit Lions,Lions
+Chris Manhertz,JAX,te,Jacksonville Jaguars,Jaguars
+Tre' McKitty,LAC,te,Los Angeles Chargers,Chargers
+Anthony Miller,2TM,,key does not exist --> 2TM,2TM
+Rashaad Penny,SEA,rb,Seattle Seahawks,Seahawks
+Curtis Samuel,WAS,wr,Washington Commanders,Commanders
+Shi Smith,CAR,,Carolina Panthers,Panthers
+Kenny Stills,NOR,wr,key does not exist --> NOR,NOR
+Preston Williams,MIA,wr,Miami Dolphins,Dolphins
+Antony Auclair,HOU,TE,Houston Texans,Texans
+Le'Veon Bell,2TM,,key does not exist --> 2TM,2TM
+Dez Fitzpatrick,TEN,,Tennessee Titans,Titans
+Joe Fortson,KAN,,Kansas City Chiefs,Chiefs
+Josh Gordon,KAN,wr,Kansas City Chiefs,Chiefs
+KJ Hamler,DEN,wr,Denver Broncos,Broncos
+Parker Hesse,ATL,te,Atlanta Falcons,Falcons
+Tony Jones,NOR,rb,key does not exist --> NOR,NOR
+Joshua Kelley,LAC,,Los Angeles Chargers,Chargers
+Scott Miller,TAM,,Tampa Bay Buccaneers,Buccaneers
+Colby Parkinson,SEA,te,Seattle Seahawks,Seahawks
+Rodney Smith,CAR,,Carolina Panthers,Panthers
+Ihmir Smith-Marsette,MIN,wr,Minnesota Vikings,Vikings
+Mike Thomas,CIN,wr,Cincinnati Bengals,Bengals
+Cody White,PIT,,Pittsburgh Steelers,Steelers
+Charlie Woerner,SFO,te,San Francisco 49ers,49ers
+Christian Blake,ATL,,Atlanta Falcons,Falcons
+Kendall Blanton,LAR,te,Los Angeles Rams,Rams
+C.J. Board,NYG,wr,NY Giants,Giants
+Ja'Marcus Bradley,CLE,,Cleveland Browns,Browns
+Jason Cabinda,DET,fb,Detroit Lions,Lions
+Pharoh Cooper,NYG,,NY Giants,Giants
+Tyler Davis,GNB,,Green Bay Packers,Packers
+Ross Dwelley,SFO,te,San Francisco 49ers,49ers
+Darren Fells,2TM,,key does not exist --> 2TM,2TM
+Will Fuller,MIA,,Miami Dolphins,Dolphins
+Garrett Griffin,NOR,te,key does not exist --> NOR,NOR
+Chris Herndon,MIN,te,Minnesota Vikings,Vikings
+Taysom Hill,NOR,qb,key does not exist --> NOR,NOR
+Chris Hogan,NOR,,key does not exist --> NOR,NOR
+Cody Hollister,TEN,wr,Tennessee Titans,Titans
+Jermar Jefferson,DET,,Detroit Lions,Lions
+Duke Johnson,MIA,rb,Miami Dolphins,Dolphins
+Jakob Johnson,NWE,fb,New England Patriots,Patriots
+Phillip Lindsay,2TM,,key does not exist --> 2TM,2TM
+Sean McKeon,DAL,te,Dallas Cowboys,Cowboys
+Kene Nwangwu,MIN,,Minnesota Vikings,Vikings
+Qadree Ollison,ATL,,Atlanta Falcons,Falcons
+Adrian Peterson,2TM,,key does not exist --> 2TM,2TM
+Amari Rodgers,GNB,wr,Green Bay Packers,Packers
+Wendell Smallwood,WAS,,Washington Commanders,Commanders
+Willie Snead,2TM,,key does not exist --> 2TM,2TM
+Jack Stoll,PHI,te,Philadelphia Eagles,Eagles
+J.J. Taylor,NWE,,New England Patriots,Patriots
+Ke'Shawn Vaughn,TAM,rb,Tampa Bay Buccaneers,Buccaneers
+Kristian Wilkerson,NWE,wr,New England Patriots,Patriots
+Jonathan Williams,WAS,,Washington Commanders,Commanders
+Cam Akers,LAR,,Los Angeles Rams,Rams
+Ryquell Armstead,JAX,,Jacksonville Jaguars,Jaguars
+Malcolm Brown,MIA,rb,Miami Dolphins,Dolphins
+Michael Burton,KAN,,Kansas City Chiefs,Chiefs
+Greg Dortch,ARI,wr,Arizona Cardinals,Cardinals
+Alex Erickson,CAR,,Carolina Panthers,Panthers
+Reggie Gilliam,BUF,fb,Buffalo Bills,Bills
+Demetrius Harris,ARI,te,Arizona Cardinals,Cardinals
+K.J. Hill,LAC,,Los Angeles Chargers,Chargers
+Tommy Hudson,TEN,,Tennessee Titans,Titans
+Tyree Jackson,PHI,te,Philadelphia Eagles,Eagles
+Andy Janovich,CLE,fb,Cleveland Browns,Browns
+Keith Kirkwood,CAR,,Carolina Panthers,Panthers
+Patrick Laird,MIA,,Miami Dolphins,Dolphins
+D.J. Montgomery,NYJ,,NY Jets,Jets
+Jason Moore,LAC,wr,Los Angeles Chargers,Chargers
+Chris Myarick,NYG,te,NY Giants,Giants
+Gabe Nabers,LAC,fb,Los Angeles Chargers,Chargers
+Adam Prentice,NOR,fb,key does not exist --> NOR,NOR
+Jaylen Samuels,HOU,,Houston Texans,Texans
+Trey Sermon,SFO,rb,San Francisco 49ers,49ers
+Kaden Smith,NYG,,NY Giants,Giants
+Jeremy Sprinkle,DAL,te,Dallas Cowboys,Cowboys
+Auden Tate,CIN,,Cincinnati Bengals,Bengals
+Jonathan Ward,ARI,,Arizona Cardinals,Cardinals
+Derek Watt,PIT,fb,Pittsburgh Steelers,Steelers
+Trevon Wesco,NYJ,te,NY Jets,Jets
+Mitchell Wilcox,CIN,te,Cincinnati Bengals,Bengals
+Shane Zylstra,DET,,Detroit Lions,Lions
+JJ Arcega-Whiteside,PHI,wr,Philadelphia Eagles,Eagles
+Kalen Ballage,PIT,,Pittsburgh Steelers,Steelers
+Cameron Batson,TEN,,Tennessee Titans,Titans
+Khari Blasingame,TEN,fb,Tennessee Titans,Titans
+Reggie Bonnafon,CAR,,Carolina Panthers,Panthers
+Mike Boone,DEN,,Denver Broncos,Broncos
+Daniel Brown,NYJ,,NY Jets,Jets
+Derek Carrier,LVR,te,Las Vegas Raiders,Raiders
+Cethan Carter,MIA,te,Miami Dolphins,Dolphins
+Dominique Dafney,GNB,te,Green Bay Packers,Packers
+Taylor Decker,DET,t,Detroit Lions,Lions
+Darrynton Evans,TEN,,Tennessee Titans,Titans
+Jesper Horsted,CHI,,Chicago Bears,Bears
+Jordan Howard,PHI,,Philadelphia Eagles,Eagles
+Trenton Irwin,CIN,,Cincinnati Bengals,Bengals
+Tyron Johnson,2TM,,key does not exist --> 2TM,2TM
+Marcus Kemp,KAN,,Kansas City Chiefs,Chiefs
+Jake Kumerow,BUF,wr,Buffalo Bills,Bills
+Marlon Mack,IND,,Indianapolis Colts,Colts
+Racey McMath,TEN,,Tennessee Titans,Titans
+Jaydon Mickens,2TM,,key does not exist --> 2TM,2TM
+Stanley Morgan Jr.,CIN,wr,Cincinnati Bengals,Bengals
+Dazz Newsome,CHI,wr,Chicago Bears,Bears
+Gunner Olszewski,NWE,,New England Patriots,Patriots
+Dezmon Patmon,IND,,Indianapolis Colts,Colts
+Scottie Phillips,HOU,,Houston Texans,Texans
+Kevin Rader,PIT,te,Pittsburgh Steelers,Steelers
+Trey Ragas,LVR,,Las Vegas Raiders,Raiders
+Richard Rodgers,PHI,,Philadelphia Eagles,Eagles
+C.J. Saunders,CAR,,Carolina Panthers,Panthers
+David Sills,NYG,wr,NY Giants,Giants
+Benny Snell Jr.,PIT,,Pittsburgh Steelers,Steelers
+Johnny Stanton,CLE,,Cleveland Browns,Browns
+Luke Stocker,MIN,,Minnesota Vikings,Vikings
+Mike Strachan,IND,,Indianapolis Colts,Colts
+Malik Taylor,GNB,,Green Bay Packers,Packers
+Patrick Taylor,GNB,,Green Bay Packers,Packers
+Trent Taylor,CIN,,Cincinnati Bengals,Bengals
+Tylan Wallace,BAL,wr,Baltimore Ravens,Ravens
+Austin Walter,NYJ,,NY Jets,Jets
+Dwayne Washington,NOR,,key does not exist --> NOR,NOR
+Tyrell Williams,DET,,Detroit Lions,Lions
+Ethan Wolf,NOR,te,key does not exist --> NOR,NOR
+Kenny Yeboah,NYJ,,NY Jets,Jets
+Alex Armah,2TM,,key does not exist --> 2TM,2TM
+Nick Bawden,NYJ,fb,NY Jets,Jets
+Nick Bellore,SEA,,Seattle Seahawks,Seahawks
+Tarik Black,NYJ,,NY Jets,Jets
+Miles Boykin,BAL,,Baltimore Ravens,Ravens
+Nick Boyle,BAL,te,Baltimore Ravens,Ravens
+Garrett Bradbury,MIN,C,Minnesota Vikings,Vikings
+Gary Brightwell,NYG,,NY Giants,Giants
+Keke Coutee,IND,,Indianapolis Colts,Colts
+Darrell Daniels,ARI,te,Arizona Cardinals,Cardinals
+Frank Darby,ATL,,Atlanta Falcons,Falcons
+Davion Davis,HOU,wr,Houston Texans,Texans
+Wayne Gallman,2TM,,key does not exist --> 2TM,2TM
+Marvin Hall,ATL,,Atlanta Falcons,Falcons
+Taylor Heinicke,WAS,QB,Washington Commanders,Commanders
+Daniel Helm,LVR,te,Las Vegas Raiders,Raiders
+Kylin Hill,GNB,,Green Bay Packers,Packers
+Amani Hooker,TEN,DB,Tennessee Titans,Titans
+Brycen Hopkins,LAR,,Los Angeles Rams,Rams
+Andy Isabella,ARI,,Arizona Cardinals,Cardinals
+Lane Johnson,PHI,T,Philadelphia Eagles,Eagles
+Daniel Jones,NYG,QB,NY Giants,Giants
+Tommylee Lewis,MIA,,Miami Dolphins,Dolphins
+Drew Lock,DEN,qb,Denver Broncos,Broncos
+Hunter Long,MIA,te,Miami Dolphins,Dolphins
+Conor McDermott,NYJ,ol,NY Jets,Jets
+Anthony McFarland Jr.,PIT,,Pittsburgh Steelers,Steelers
+Kirk Merritt,MIA,,Miami Dolphins,Dolphins
+Johnny Mundt,LAR,,Los Angeles Rams,Rams
+Ryan Nall,CHI,,Chicago Bears,Bears
+Devine Ozigbo,2TM,,key does not exist --> 2TM,2TM
+Danny Pinter,IND,g,Indianapolis Colts,Colts
+Bobby Price,DET,s,Detroit Lions,Lions
+Mike Remmers,KAN,t,Kansas City Chiefs,Chiefs
+Andre Roberts,2TM,,key does not exist --> 2TM,2TM
+Aaron Rodgers,GNB,QB,Green Bay Packers,Packers
+Larry Rountree,LAC,,Los Angeles Chargers,Chargers
+Diontae Spencer,DEN,,Denver Broncos,Broncos
+Terence Steele,DAL,T,Dallas Cowboys,Cowboys
+Andrew Thomas,NYG,T,NY Giants,Giants
+Eric Tomlinson,BAL,te,Baltimore Ravens,Ravens
+Kevin White,NOR,wr,key does not exist --> NOR,NOR
+Christian Wilkins,MIA,DT,Miami Dolphins,Dolphins
+Seth Williams,DEN,wr,Denver Broncos,Broncos
+Trayveon Williams,CIN,,Cincinnati Bengals,Bengals
+Easop Winston,NOR,,key does not exist --> NOR,NOR
+Deon Yelder,TAM,,Tampa Bay Buccaneers,Buccaneers
+Tom Brady,TAM,QB,Tampa Bay Buccaneers,Buccaneers
+Justin Herbert,LAC,QB,Los Angeles Chargers,Chargers
+Matthew Stafford,LAR,QB,Los Angeles Rams,Rams
+Patrick Mahomes,KAN,QB,Kansas City Chiefs,Chiefs
+Derek Carr,LVR,QB,Las Vegas Raiders,Raiders
+Joe Burrow,CIN,QB,Cincinnati Bengals,Bengals
+Dak Prescott,DAL,QB,Dallas Cowboys,Cowboys
+Josh Allen,BUF,QB,Buffalo Bills,Bills
+Kirk Cousins,MIN,QB,Minnesota Vikings,Vikings
+Aaron Rodgers*+,GNB,QB,Green Bay Packers,Packers
+Matt Ryan,ATL,QB,Atlanta Falcons,Falcons
+Jimmy Garoppolo,SFO,QB,San Francisco 49ers,49ers
+Mac Jones,NWE,QB,New England Patriots,Patriots
+Kyler Murray,ARI,QB,Arizona Cardinals,Cardinals
+Ben Roethlisberger,PIT,0,Pittsburgh Steelers,Steelers
+Ryan Tannehill,TEN,QB,Tennessee Titans,Titans
+Trevor Lawrence,JAX,QB,Jacksonville Jaguars,Jaguars
+Carson Wentz,IND,QB,Indianapolis Colts,Colts
+Jared Goff,DET,QB,Detroit Lions,Lions
+Jalen Hurts,PHI,QB,Philadelphia Eagles,Eagles
+Russell Wilson,SEA,QB,Seattle Seahawks,Seahawks
+Teddy Bridgewater,DEN,QB,Denver Broncos,Broncos
+Baker Mayfield,CLE,QB,Cleveland Browns,Browns
+Lamar Jackson,BAL,QB,Baltimore Ravens,Ravens
+Davis Mills,HOU,QB,Houston Texans,Texans
+Tua Tagovailoa,MIA,QB,Miami Dolphins,Dolphins
+Sam Darnold,CAR,QB,Carolina Panthers,Panthers
+Zach Wilson,NYJ,QB,NY Jets,Jets
+Justin Fields,CHI,qb,Chicago Bears,Bears
+Andy Dalton,CHI,qb,Chicago Bears,Bears
+Jacoby Brissett,MIA,qb,Miami Dolphins,Dolphins
+Jameis Winston,NOR,qb,key does not exist --> NOR,NOR
+Trevor Siemian,NOR,qb,key does not exist --> NOR,NOR
+Tyler Huntley,BAL,qb,Baltimore Ravens,Ravens
+Tyrod Taylor,HOU,qb,Houston Texans,Texans
+Mike White,NYJ,qb,NY Jets,Jets
+Mike Glennon,NYG,qb,NY Giants,Giants
+Colt McCoy,ARI,qb,Arizona Cardinals,Cardinals
+Geno Smith,SEA,qb,Seattle Seahawks,Seahawks
+Cam Newton,CAR,qb,Carolina Panthers,Panthers
+Josh Johnson,2TM,0,key does not exist --> 2TM,2TM
+Trey Lance,SFO,qb,San Francisco 49ers,49ers
+Tim Boyle,DET,qb,Detroit Lions,Lions
+Case Keenum,CLE,qb,Cleveland Browns,Browns
+Gardner Minshew II,PHI,qb,Philadelphia Eagles,Eagles
+Cooper Rush,DAL,qb,Dallas Cowboys,Cowboys
+Jordan Love,GNB,qb,Green Bay Packers,Packers
+P.J. Walker,CAR,qb,Carolina Panthers,Panthers
+Joe Flacco,NYJ,qb,NY Jets,Jets
+Mason Rudolph,PIT,qb,Pittsburgh Steelers,Steelers
+Nick Foles,CHI,qb,Chicago Bears,Bears
+Brian Hoyer,NWE,0,New England Patriots,Patriots
+Jake Fromm,NYG,qb,NY Giants,Giants
+Garrett Gilbert,WAS,qb,Washington Commanders,Commanders
+Sean Mannion,MIN,qb,Minnesota Vikings,Vikings
+Brandon Allen,CIN,qb,Cincinnati Bengals,Bengals
+Nick Mullens,CLE,qb,Cleveland Browns,Browns
+Ian Book,NOR,qb,key does not exist --> NOR,NOR
+Kyle Allen,WAS,0,Washington Commanders,Commanders
+Chad Henne,KAN,0,Kansas City Chiefs,Chiefs
+Tom Kennedy,DET,0,Detroit Lions,Lions
+Blaine Gabbert,TAM,0,Tampa Bay Buccaneers,Buccaneers
+Mitchell Trubisky,BUF,0,Buffalo Bills,Bills
+Jack Fox,DET,p,Detroit Lions,Lions
+Chris Streveler,ARI,0,Arizona Cardinals,Cardinals
+C.J. Beathard,JAX,0,Jacksonville Jaguars,Jaguars
+Jacob Eason,IND,0,Indianapolis Colts,Colts
+Deebo Samuel*+,SFO,WR,San Francisco 49ers,49ers
+Chris Banjo,ARI,0,Arizona Cardinals,Cardinals
+Josh Rosen,ATL,0,Atlanta Falcons,Falcons
+Dante Pettis,NYG,0,NY Giants,Giants
+Tommy Townsend,KAN,p,Kansas City Chiefs,Chiefs
+Ryan Fitzpatrick,WAS,qb,Washington Commanders,Commanders
+Matthias Farley,TEN,0,Tennessee Titans,Titans
+Kellen Mond,MIN,0,Minnesota Vikings,Vikings
+John Wolford,LAR,0,Los Angeles Rams,Rams
+Marcus Mariota,LVR,0,Las Vegas Raiders,Raiders
+Johnny Hekker,LAR,0,Los Angeles Rams,Rams
+Greg Ward,PHI,0,Philadelphia Eagles,Eagles
+Danny Amendola,HOU,0,Houston Texans,Texans
+Chris Boswell,PIT,k,Pittsburgh Steelers,Steelers
+Riley Dixon,NYG,0,NY Giants,Giants
+Feleipe Franks,ATL,0,Atlanta Falcons,Falcons
+Blake Gillikin,NOR,p,key does not exist --> NOR,NOR
+Sam Koch,BAL,p,Baltimore Ravens,Ravens
+Cooper Kupp*+,LAR,WR,Los Angeles Rams,Rams
+Ty Long,LAC,p,Los Angeles Chargers,Chargers
+Brett Rypien,DEN,0,Denver Broncos,Broncos
+Ben Roethlisberger,PIT,,Pittsburgh Steelers,Steelers
+Jason Huntley,PHI,,Philadelphia Eagles,Eagles
+Deon Jackson,IND,,Indianapolis Colts,Colts
+Marcus Mariota,LVR,,Las Vegas Raiders,Raiders
+Mitchell Trubisky,BUF,,Buffalo Bills,Bills
+Brian Hoyer,NWE,,New England Patriots,Patriots
+Blaine Gabbert,TAM,,Tampa Bay Buccaneers,Buccaneers
+Josh Johnson,2TM,,key does not exist --> 2TM,2TM
+Chad Henne,KAN,,Kansas City Chiefs,Chiefs
+La'Mical Perine,NYJ,,NY Jets,Jets
+Logan Woodside,TEN,,Tennessee Titans,Titans
+Buddy Howell,LAR,,Los Angeles Rams,Rams
+Mekhi Sargent,3TM,,key does not exist --> 3TM,3TM
+Kenjon Barner,TAM,,Tampa Bay Buccaneers,Buccaneers
+JaQuan Hardy,DAL,,Dallas Cowboys,Cowboys
+Trenton Cannon,2TM,,key does not exist --> 2TM,2TM
+Damarea Crockett,DEN,,Denver Broncos,Broncos
+Sam Ehlinger,IND,,Indianapolis Colts,Colts
+Feleipe Franks,ATL,,Atlanta Falcons,Falcons
+Chris Streveler,ARI,,Arizona Cardinals,Cardinals
+Kyle Allen,WAS,,Washington Commanders,Commanders
+Kurt Benkert,GNB,,Green Bay Packers,Packers
+Chase Daniel,LAC,,Los Angeles Chargers,Chargers
+Jake Funk,LAR,,Los Angeles Rams,Rams
+John Kelly,CLE,,Cleveland Browns,Browns
+Dallin Leavitt,LVR,s,Las Vegas Raiders,Raiders
+Raheem Mostert,SFO,rb,San Francisco 49ers,49ers
+Jacques Patrick,SFO,,San Francisco 49ers,49ers
+Nathan Peterman,LVR,,Las Vegas Raiders,Raiders
+Davis Webb,BUF,,Buffalo Bills,Bills
+John Wolford,LAR,,Los Angeles Rams,Rams
+Alex Bachman,NYG,,NY Giants,Giants
+C.J. Beathard,JAX,,Jacksonville Jaguars,Jaguars
+David Blough,DET,,Detroit Lions,Lions
+Sean Chandler,CAR,s,Carolina Panthers,Panthers
+Nathan Cottrell,JAX,,Jacksonville Jaguars,Jaguars
+Clayton Fejedelem,MIA,,Miami Dolphins,Dolphins
+Maurice Ffrench,LAC,,Los Angeles Chargers,Chargers
+Jamie Gillan,CLE,p,Cleveland Browns,Browns
+Johnny Hekker,LAR,,Los Angeles Rams,Rams
+Andy Lee,ARI,p,Arizona Cardinals,Cardinals
+Braden Mann,NYJ,p,NY Jets,Jets
+Nate McCrary,BAL,,Baltimore Ravens,Ravens
+C.J. Moore,DET,s,Detroit Lions,Lions
+Michael Palardy,MIA,p,Miami Dolphins,Dolphins
+Ito Smith,DAL,,Dallas Cowboys,Cowboys
+Tremon Smith,HOU,db,Houston Texans,Texans
+Andrew Wingard,JAX,S,Jacksonville Jaguars,Jaguars
